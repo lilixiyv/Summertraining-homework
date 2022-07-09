@@ -59,8 +59,8 @@
 1. GitHub 提交
    - fork 仓库： [Ther-nullptr/Summertraining-homework (github.com)](https://github.com/Ther-nullptr/Summertraining-homework)到个人仓库，按要求修改好后，从个人仓库提pr到原本的仓库，pr信息填写为：`hw_姓名_班级` （如：`hw_小明_无19`）。
 2. 邮箱提交
-   - 修改相关文件，修改好后，将`smmertraining-homework`整个文件夹打包成常见压缩格式（如`.rar`、`.zip`等），并命名为：`hw_姓名_班级` （如：`hw_小明_无19`）发送到邮箱 **yujinwangthu@foxmail.com**。
+   - 修改相关文件，修改好后，将`summertraining-homework`整个文件夹打包成常见压缩格式（如`.rar`、`.zip`等），并命名为：`hw_姓名_班级` （如：`hw_小明_无19`）发送到邮箱 **yujinwangthu@foxmail.com**。
 
 ## 截止日期
-
+u
 2022.7.31 23：59之前
