@@ -62,5 +62,5 @@
    - 修改相关文件，修改好后，将`summertraining-homework`整个文件夹打包成常见压缩格式（如`.rar`、`.zip`等），并命名为：`hw_姓名_班级` （如：`hw_小明_无19`）发送到邮箱 **yujinwangthu@foxmail.com**。
 
 ## 截止日期
-u
+
 2022.7.31 23：59之前
