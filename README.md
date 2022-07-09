@@ -30,6 +30,28 @@
 
 4. 完善`CMakeLists.txt`中`target_include_directories`和`add_executable`的书写，并利用cmake工具生成可执行文件。运行程序，观察终端的输出和生成的序列化信息文件`output.bin`。
 
+## 扩展阅读（无需提交）
+
+### Protobuf
+
+以下是THUAI5工程中使用到的protobuf文件：
+
+[Message2Clients.proto](https://github.com/eesast/THUAI5/blob/dev/dependency/proto/Message2Clients.proto)
+
+[Message2Server.proto](https://github.com/eesast/THUAI5/blob/dev/dependency/proto/Message2Server.proto)
+
+[MessageType.proto](https://github.com/eesast/THUAI5/blob/dev/dependency/proto/MessageType.proto)
+
+感兴趣的同学可以阅读这些文件，了解课上所讲的protobuf语法在实际项目中的应用。
+
+### CMake
+
+以下是THUAI5工程中使用到的CMakeLists.txt文件：
+
+[CMakeLists.txt](https://github.com/eesast/THUAI5/blob/dev/CAPI/CMakeLists.txt)
+
+感兴趣的同学可以阅读这些文件，了解课上所讲的CMake语法在实际项目中的应用。
+
 ## 提交方式
 
 提供两种提交方式：
