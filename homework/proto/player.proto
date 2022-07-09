@@ -1,0 +1,24 @@
+syntax = "proto3";
+package player;
+
+enum Job // 玩家职业
+{
+    ASSASSIN = 0;
+    SHOOTER = 1;
+    WARRIOR = 2;
+};
+
+message Prop
+{
+    int32 cd = 1;
+    string name = 2;
+};
+
+message Player
+{
+    // TODO 1: add fields of player 
+    int32 life = 1;
+    string nickname = 2;
+    Job job = 3;
+    repeated Prop props = 4;
+}
