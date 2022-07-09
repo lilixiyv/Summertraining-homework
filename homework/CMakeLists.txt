@@ -11,7 +11,7 @@ set(PROTOBUF_LIBPROTOBUF protobuf::libprotobuf)
 set(SOURCES src/player.pb.cc src/main.cpp)
 
 # TODO 4:include the head files and use .cpp to generate executable
-add_executable(protobuf_homework ${SOURCES})
-target_include_directories(protobuf_homework PUBLIC ${PROJECT_SOURCE_DIR}/include)
+# add_executable
+# target_include_directories
 
 target_link_libraries(protobuf_homework ${PROTOBUF_LIBPROTOBUF})
